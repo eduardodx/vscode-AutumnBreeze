@@ -1,0 +1,47 @@
+{
+  "name": "autumn-breeze",
+  "displayName": "Autumn Breeze",
+  "description": "An autumn-inspired light theme for Visual Studio Code with soft ivory tones and warm earthy colors.",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Autumn Breeze Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/autumn-breeze-dark.json"
+      },
+      {
+        "label": "Autumn Breeze Light",
+        "uiTheme": "vs",
+        "path": "./themes/autumn-breeze-light.json"
+      }
+    ]
+  },
+  "keywords": [
+    "light theme",
+    "autumn",
+    "minimalist",
+    "ivory",
+    "soft colors",
+    "python",
+    "warm tones"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Eduardo Souza",
+    "url": "https://eduardodx.net"
+  },
+  "publisher": "eduardodx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardodx/vscode-AutumnBreeze"
+  },
+  "homepage": "https://github.com/your-username/vscode-AutumnBreeze#readme"
+}
