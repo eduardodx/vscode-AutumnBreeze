@@ -2,6 +2,11 @@
 
 **Autumn Breeze Theme** is a theme for Visual Studio Code inspired by the calm and earthy tones of autumn. This theme combines a soft ivory background with subtle, autumnal hues, creating a refined and comfortable environment for coding. Whether you spend long hours programming or want a soothing aesthetic, this theme is designed to reduce eye strain while maintaining clarity and focus.
 
+## Screen-shots
+
+![](./images/dark.png)
+![](./images/light.png)
+
 ## 🛠️ Features
 
 - **Subtle UI**: The theme's UI uses shared muted tones, creating a cohesive and unobtrusive experience that blends seamlessly with the background. Sidebars, activity bars, and the terminal are carefully colored to maintain focus on your code.
