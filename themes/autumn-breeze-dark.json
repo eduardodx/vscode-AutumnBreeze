@@ -97,6 +97,18 @@
       "settings": {
         "foreground": "#81738A"
       }
+    },
+    {
+      "scope": ["variable.other"],
+      "settings": {
+        "foreground": "#F4E9D6"
+      }
+    },
+    {
+      "scope": ["variable.parameter"],
+      "settings": {
+        "foreground": "#DFC9A4"
+      }
     }
   ]
 }

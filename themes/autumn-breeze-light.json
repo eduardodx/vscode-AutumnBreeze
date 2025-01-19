@@ -120,6 +120,18 @@
       "settings": {
         "foreground": "#d45d5d"
       }
+    },
+    {
+      "scope": ["variable.other"],
+      "settings": {
+        "foreground": "#2c2926"
+      }
+    },
+    {
+      "scope": ["variable.parameter"],
+      "settings": {
+        "foreground": "#897F76"
+      }
     }
   ]
 }
