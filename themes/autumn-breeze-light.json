@@ -27,6 +27,7 @@
     "statusBar.background": "#f1ede8",
     "statusBar.foreground": "#2c2926",
     "statusBar.border": "#cbc2bb",
+    "statusBar.noFolderBackground": "#f1ede8",
     
     "button.background": "#c6a08a",
     "button.foreground": "#f8f5f1",
