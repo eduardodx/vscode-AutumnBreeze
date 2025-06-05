@@ -17,10 +17,10 @@
 
 1. Open Visual Studio Code.
 2. Go to the **Extensions** view by clicking on the Extensions icon in the Activity Bar or by pressing `Ctrl+Shift+X`.
-3. Search for **"Soft Ivory Autumn Theme"**.
+3. Search for **"Autumn Breeze"**.
 4. Click **Install** to add the theme.
 5. Open the **Command Palette** (`Ctrl+Shift+P`) and type "Color Theme".
-6. Choose **Soft Ivory Autumn Theme** from the list of available themes.
+6. Choose **Autumn Breeze** from the list of available themes.
 
 ## 💻 Supported Languages
 
